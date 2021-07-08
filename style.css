@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  min-width: 100%;
+  max-width: 100%;
+}
+h1 {
+  font-size: 40px;
+  font-family: monospace;
+  text-align: center;
+  margin-top: 120px;
+}
+svg {
+  width: 400px;
+  height: 400px;
+  margin: 0 auto;
+}
